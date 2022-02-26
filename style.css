@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-size: 22px;
+    color:rgb(31, 25, 92);
+    font-family: 'Tinos', serif;
+    
+}
+
+.hlavicka{
+    margin: 30px 150px;
+    background-color:rgba(236, 195, 148, 0.432);
+    padding-left: 150px;
+    
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(31, 25, 92);
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
+
+.hlavicka img{
+    float: left;
+    width: 200px;
+    border: 4px solid rgb(253, 250, 250);
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.hlavicka table{
+    padding: 20px 0px 70px 90px;
+    font-size: 22px;
+    line-height: 2;
+
+}
+.hlavicka .tabulkavpravo{
+    padding-left: 90px;
+}
+
+a{
+    color:black
+}
+
+a:hover,
+a:focus,
+a:active{
+    background-color: rgb(253, 250, 250);
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    font-size: 29px;
+    color: rgb(31, 25, 92);
+    padding-top: 25px;
+}
+
+.vzdelani,
+.znalosti,
+.pracovnizkusenosti,
+.zajmy{
+    background-color: rgba(236, 195, 148, 0.432);
+    margin: 0 150px;
+    padding-left: 100px;
+    line-height: 2;
+    padding-bottom: 50px;
+    
+}
+.zajmy ul{
+    text-align: center;
+    
+}
+.zajmy li{
+    display: inline-block;
+    padding: 0 40px;
+    margin: 0 10px;
+    background-color: rgb(31, 25, 92);
+    color: white
+
+}
+.znalosti table{
+    border-spacing: 0;
+    
+}
+.znalosti td{
+    border-bottom: 2px solid rgb(253, 250, 250);
+}    
+.znalosti .tabulkavpravo{
+    padding-left: 250px;
+    text-align: right;
+}
+
+.paticka{
+    text-align: center;
+    padding: 10px 0;
+}
