@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: white;
-    font-size: 22px;
+    font-size: 20px;
     color:rgb(31, 25, 92);
     font-family: 'Tinos', serif;
     
@@ -11,12 +11,12 @@ body{
 .hlavicka{
     margin: 30px 150px;
     background-color:rgba(236, 195, 148, 0.432);
-    padding-left: 150px;
+    padding-left: 130px;
     
 }
 
 h1{
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(31, 25, 92);
     text-align: center;
     padding: 40px 0 20px 0;
@@ -32,13 +32,13 @@ h1{
 }
 
 .hlavicka table{
-    padding: 20px 0px 70px 90px;
-    font-size: 22px;
+    padding: 20px 0px 70px 50px;
+    font-size: 20px;
     line-height: 2;
 
 }
 .hlavicka .tabulkavpravo{
-    padding-left: 90px;
+    padding-left: 60px;
 }
 
 a{
@@ -54,7 +54,7 @@ a:active{
 
 h2{
     text-align: center;
-    font-size: 29px;
+    font-size: 27px;
     color: rgb(31, 25, 92);
     padding-top: 25px;
 }
