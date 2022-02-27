@@ -22,7 +22,7 @@ h1{
     border: 4px solid rgb(253, 250, 250);
     border-radius: 50%;
     padding: 5px;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .hlavicka table{
@@ -71,7 +71,7 @@ h2{
 
 .vzdelani ul,
 .pracovnizkusenosti ul{
-    margin-left: 15%;
+    margin-left: 12%;
 }
     
 
@@ -89,14 +89,15 @@ h2{
 }
 .znalosti table{
     border-spacing: 0;
-    padding-left: 15%;
+    margin-left: 14%;
     margin-bottom: 20px;
+    
 }
 .znalosti td{
     border-bottom: 2px solid rgb(253, 250, 250);
 }    
 .znalosti .tabulkavpravo{
-    padding-left: 600px;
+    padding-left: 550px;
     text-align: right;
 }
 
